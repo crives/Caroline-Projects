@@ -6,7 +6,7 @@
 
 <!-- [Link](url) and  -->
 
-![Image](images/restaurant-app-screenshot2.png)
+![Image](images/restaurant-app-screenshot.png)
 
 <center>
 <b><a href="https://www.youtube.com/watch?v=dwS9b3YqnFs">Video Demo!</a>
@@ -16,5 +16,5 @@
 <a href="https://drive.google.com/file/d/1aq3CEqe1-K2tVDR-njkPdlym_qqCQ_qG/view">Page Layout Plan</a> | 
 <a href="https://www.youtube.com/watch?v=gzf0hy-3cIM">Jira Demo</a>
 </center>
-![Image](images/HomePage2.png)
+![Image](images/HomePage.png)
 
