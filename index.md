@@ -31,7 +31,7 @@
 <center>
 <b><a href="https://www.youtube.com/watch?v=o0do7hn5hFg&feature=emb_title">Video Demo!</a>
 </b> | 
-<a href="https://drive.google.com/file/d/1tEumeoOhdzuL2SDn7zjzvkXgeVlISnvz/view?usp=sharing">Presentation PDF (photos link to YouTube Videos)</a> | 
+<a href="https://drive.google.com/file/d/1tEumeoOhdzuL2SDn7zjzvkXgeVlISnvz/view?usp=sharing">Presentation PDF</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">React-Leaflet GitHub</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">Backend GitHub</a>
 </center>
