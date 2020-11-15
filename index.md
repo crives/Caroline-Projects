@@ -6,7 +6,9 @@
 
 
 
-[Link](url) and ![Image](src)
+<!-- [Link](url) and  -->
+
+![Image](/Users/carolinerives/Desktop/restaurant-app-screenshot.png)
 
 
 
