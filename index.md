@@ -1,7 +1,7 @@
 
 <center>
         <h2>Restaurant API Rating Website</h2>
-        <h4> React / SpringBoot Rest API</h4>
+        <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
 
 <!-- [Link](url) and  -->
