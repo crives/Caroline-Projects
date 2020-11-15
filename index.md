@@ -8,7 +8,7 @@
 
 <!-- [Link](url) and  -->
 
-![Image](/Users/carolinerives/Desktop/restaurant-app-screenshot.png)
+![Image](images/restaurant-app-screenshot.png)
 
 
 
