@@ -18,3 +18,9 @@
 </center>
 ![Image](images/HomePage.png)
 
+<center>
+        <h2>Team NextGen6G Hackathon Project</h2>
+        <h4> React-Leaflet / SpringBoot Rest API</h4>
+</center>
+
+![Image](images/nextgen6g-screenshot.png)
