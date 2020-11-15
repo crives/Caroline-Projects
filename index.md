@@ -1,7 +1,6 @@
 
 <center>
-        <h2> Cognixia JUMP Team Project</h2> 
-        <h3>Restaurant API Rating Website</h3>
+        <h2>Restaurant API Rating Website</h2>
         <h4> React / SpringBoot Rest API</h4>
 </center>
 
