@@ -6,7 +6,7 @@
 
 <!-- [Link](url) and  -->
 
-![Image](images/restaurant-app-screenshot.png)
+![Image](images/restaurant-app-screenshot1.png)
 
 <center>
 <b><a href="https://www.youtube.com/watch?v=dwS9b3YqnFs">Video Demo!</a>
