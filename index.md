@@ -43,6 +43,6 @@ React-Leaflet Map shows not only the driver in their location but the respective
 </center>
 
 <center>
-Teammate contributions: <a href=https://www.youtube.com/watch?v=LXcVDIHMXvU">OpenCV Facial Recognition Video Demo</a> | 
+Teammate contributions: <a href="https://www.youtube.com/watch?v=LXcVDIHMXvU">OpenCV Facial Recognition Video Demo</a> | 
 <a href="https://www.youtube.com/watch?v=f2fLG78O4m0">NextGen6G Co-pilot B9 React Native Video Demo</a>
 </center>
