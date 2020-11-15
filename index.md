@@ -6,7 +6,7 @@
 
 <!-- [Link](url) and  -->
 
-![Image](images/restaurant-app-screenshot1.png)
+![Image](images/restaurant-app-screenshot.png)
 
 <center>
 <b><a href="https://www.youtube.com/watch?v=dwS9b3YqnFs">Video Demo!</a>
@@ -18,6 +18,8 @@
 </center>
 ![Image](images/HomePage.png)
 
+<br>
+<br>
 <center>
         <h2>Team NextGen6G Hackathon Project</h2>
         <h4> React-Leaflet / SpringBoot Rest API</h4>
