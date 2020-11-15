@@ -38,7 +38,7 @@
 
 <center>
 <br>
-We created a proof of concept minimum viable product to pitch to external T-Mobile client, involving a hardware OpenCV facial recognition software for distracted drivers, as well as a React-Native text-to-speech app integrating the location data of the driver to alert when the driver is looking away or reaching a High Accident Zone (HAZ). 
+We created a proof of concept minimum viable product to pitch to external T-Mobile client, involving a hardware RaspberryPi with OpenCV facial recognition software for distracted drivers, as well as a React-Native text-to-speech app integrating the location data of the driver to alert when the driver is looking away or reaching a High Accident Zone (HAZ). 
 React-Leaflet Map shows not only the driver in their location but the respective high-accident zones clustered from  3.5 million US Accidents Kaggle dataset.
 </center>
 
