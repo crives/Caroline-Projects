@@ -4,8 +4,8 @@
         <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
 
-{% include slider_scripts.html %}
-
+{% include _includes/slider_styles.html %}
+{% include _includes/slider_scripts.html %}
 
 <!-- [Link](url) and  -->
 
