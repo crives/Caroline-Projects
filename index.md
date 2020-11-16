@@ -37,9 +37,7 @@
 <a href="https://drive.google.com/file/d/1tEumeoOhdzuL2SDn7zjzvkXgeVlISnvz/view?usp=sharing">Presentation PDF</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">React-Leaflet GitHub</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">Backend GitHub</a>
-</center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/o0do7hn5hFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0do7hn5hFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>
 <br>
