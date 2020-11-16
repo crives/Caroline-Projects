@@ -54,9 +54,12 @@ Teammate contributions:
 <center>
         <h2>PixBox API Website</h2>
         <h4> Vanilla JS / SpringBoot Rest API / MySQL</h4>
-</center>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<a href="https://github.com/crives/PinterestApi">GitHub Repository</a>
+<br>
 ![Image](images/pic1.png)
 ![Image](images/pic2.png)
 ![Image](images/pic3.png)
