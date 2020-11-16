@@ -59,7 +59,7 @@ Teammate contributions:
 
 <center>
         <h2>PixBox API Website</h2>
-        <h4> Vanilla JavaScript / SpringBoot Rest API / MySQL : <a href="https://github.com/crives/PinterestApi">GitHub Repo</a></h4>
+        <h4> Vanilla JavaScript / SpringBoot Rest API / MySQL : <b><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></b></h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br>
