@@ -4,9 +4,6 @@
         <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
 
-{% include _includes/slider_styles.html %}
-{% include _includes/slider_scripts.html %}
-
 <!-- [Link](url) and  -->
 
 ![Image](images/restaurant-app-screenshot1.png)
@@ -59,4 +56,3 @@ Teammate contributions:
         <h4> React / SpringBoot Rest API / MySQL</h4>
 </center>
 
-{% include slider.html selector="slider3" %}
