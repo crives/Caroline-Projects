@@ -62,7 +62,7 @@ Teammate contributions:
 <br>
 * I used a name generator to create the name "PixBox" and added a custom overlay to the homepage background image using a photo editor.
 <br>
-* All photos except a few animal ones are my own from my personal photo collection taken with my DSLR camera during my time abroad in France 2012-2013.
+* All photos except a few animal ones and the Louvre are my own from my personal photo collection taken with my DSLR camera during my time abroad in France 2012-2013.
 <br>
 
 <br>
