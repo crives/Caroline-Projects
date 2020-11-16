@@ -64,7 +64,7 @@ Teammate contributions:
 <br>
 * I used a free site-name generator to create the name "PixBox", and created the homepage using a photo editor site.
 <br>
-* All photos minus the cats, bunny and sloth are my own from my personal photo collection taken with my DSLR camera during my time abroad in France from 2012-2013.
+* All photos except for some of the animal photos are my own from my personal photo collection taken with my DSLR camera during my time abroad in France from 2012-2013.
 <br>
 
 <br>
