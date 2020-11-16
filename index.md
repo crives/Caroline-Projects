@@ -56,7 +56,6 @@ Teammate contributions:
         <h4> Vanilla JS / SpringBoot Rest API / MySQL</h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br>
 
 <center><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></center>
 
