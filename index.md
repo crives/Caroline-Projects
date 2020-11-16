@@ -4,6 +4,9 @@
         <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
 
+{% include slider_scripts.html %}
+
+
 <!-- [Link](url) and  -->
 
 ![Image](images/restaurant-app-screenshot1.png)
