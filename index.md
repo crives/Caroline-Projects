@@ -36,9 +36,7 @@
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">Backend GitHub</a>
 </center>
 
-<br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/o0do7hn5hFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br>
 
 <center>
 <br>
@@ -53,3 +51,11 @@ Teammate contributions:
 <a href="https://www.youtube.com/watch?v=LXcVDIHMXvU">OpenCV Facial Recognition Video Demo</a> | 
 <a href="https://www.youtube.com/watch?v=f2fLG78O4m0">NextGen6G Co-pilot B9 React Native Video Demo</a>
 </center>
+<br>
+
+<center>
+        <h2>"Pinterest" PixBox API Website</h2>
+        <h4> React / SpringBoot Rest API / MySQL</h4>
+</center>
+
+{% include slider.html selector="slider3" %}

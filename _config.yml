@@ -1,1 +1,3 @@
+{% include _includes/slider_styles.html %}
+{% include _includes/slider_scripts.html %}
 theme: jekyll-theme-cayman
