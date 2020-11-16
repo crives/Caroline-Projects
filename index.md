@@ -56,14 +56,11 @@ Teammate contributions:
         <h4> Vanilla JS / SpringBoot Rest API / MySQL</h4>
 </center>
 
-<div>
-      <img src="images/pic1.png">
-      <img src="images/pic2.png">
-      <img src="images/pic3.png">
-      <img src="images/pic4.png">
-      <img src="images/pic5.png">
-      <img src="images/pic6.png">
 
-</div>
-
+<br>
+![Image](images/pic1.png)
+![Image](images/pic2.png)
+![Image](images/pic3.png)
+![Image](images/pic4.png)
+![Image](images/pic6.png)
 
