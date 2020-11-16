@@ -1,12 +1,12 @@
 - selector: slider3
   images:
-    - src: /img/1.jpg
+    - src: ./images/pic1.png
       alt: image one
-    - src: /img/2.jpg
+    - src: ./images/pic2.png
       alt: image two
-    - src: /img/3.jpg
+    - src: ./images/pic3.png
       alt: image three
-    - src: /img/4.jpg
+    - src: ./images/pic4.png
       alt: image four
   settings:
     height: "'auto'"
