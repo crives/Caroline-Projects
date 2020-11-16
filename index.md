@@ -53,11 +53,10 @@ Teammate contributions:
 
 <center>
         <h2>PixBox API Website</h2>
-        <h4> Vanilla JS / SpringBoot Rest API / MySQL</h4>
+        <h4> Vanilla JS / SpringBoot Rest API / MySQL : <a href="https://github.com/crives/PinterestApi">GitHub Repo</a></h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<center><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></center>
 
 * My first full-stack webpage, I created my own version of a Pinterest site for posting, updating and deleting images - CRUD operations. I used Vanilla JavaScript to make controller functions enabling AJAX data calls to the backend SpringBoot Rest API. 
 <br>
