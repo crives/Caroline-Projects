@@ -58,7 +58,7 @@ Teammate contributions:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-* My first full-stack webpage, I created my own version of a Pinterest site for posting, updating and deleting images - CRUD operations. I used Vanilla JavaScript to make controller functions enabling AJAX data calls to the backend SpringBoot Rest API. 
+* My first full-stack webpage, I created my own version of a Pinterest site for posting, updating and deleting images. I used Vanilla JavaScript to make controller functions enabling AJAX data calls to the backend SpringBoot Rest API. 
 <br>
 * I used a name generator to create the name "PixBox" and added a custom overlay to the homepage background image using a photo editor.
 <br>
