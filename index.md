@@ -16,7 +16,10 @@
 <a href="https://drive.google.com/file/d/1aq3CEqe1-K2tVDR-njkPdlym_qqCQ_qG/view">Page Layout Plan</a> | 
 <a href="https://www.youtube.com/watch?v=gzf0hy-3cIM">Jira Demo</a>
 </center>
+
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEly0IXPKYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 <br>
 
 ![Image](images/HomePage1.png)
