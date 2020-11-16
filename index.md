@@ -55,10 +55,16 @@ Teammate contributions:
         <h2>PixBox API Website</h2>
         <h4> Vanilla JS / SpringBoot Rest API / MySQL</h4>
 
-<center>
-<a href="https://github.com/crives/PinterestApi">GitHub Repository</a>
-</center>
+My first full-stack webpage, I created my own version of a Pinterest site for posting images, as well as updating and deleting them (CRUD operations). I used Vanilla JavaScript to create controller functions using AJAX data calls to the backend SpringBoot Rest API. 
+<br>
+I used a free site-name generator to create the name "PixBox", and created the homepage using a photo editor site.
+<br>
+All photos minus the cats and sloth are my own from my personal photo collection taken with my DSLR camera during my time abroad in France from 2012-2013.
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<a href="https://github.com/crives/PinterestApi">GitHub Repo</a>
 
 <br>
 ![Image](images/pic1.png)
