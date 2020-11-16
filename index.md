@@ -58,9 +58,10 @@ Teammate contributions:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gK9-t0Itz8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br>
+
 <center><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></center>
 <br>
-* For first full-stack webpage, I created my own version of a Pinterest site for posting images, as well as updating and deleting them (CRUD operations). I used Vanilla JavaScript to create controller functions using AJAX data calls to the backend SpringBoot Rest API. 
+* For first full-stack webpage, I created my own version of a Pinterest site for posting images, as well as updating and deleting them - CRUD operations. I used Vanilla JavaScript to create controller functions using AJAX data calls to the backend SpringBoot Rest API. 
 <br>
 * I used a free site-name generator to create the name "PixBox", and created the homepage using a photo editor site.
 <br>
