@@ -36,6 +36,10 @@
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">Backend GitHub</a>
 </center>
 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0do7hn5hFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 <center>
 <br>
 We created a proof of concept minimum viable product to pitch to external T-Mobile client, involving a hardware RaspberryPi with OpenCV facial recognition software for distracted drivers, as well as a React-Native text-to-speech app integrating the location data of the driver to alert when the driver is looking away or reaching a High Accident Zone (HAZ). 
