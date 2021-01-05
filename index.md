@@ -23,7 +23,6 @@
 </center> 
 
 <br>
-<br>
 <center>
         <h2>Team NextGen6G Hackathon Project</h2>
         <h4> React-Leaflet / SpringBoot Rest API</h4>
