@@ -1,5 +1,5 @@
 
-<center>
+<!-- <center>
         <h2>Restaurant API Rating Website</h2>
         <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
@@ -22,7 +22,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEly0IXPKYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center> 
 
-<br>
+<br> -->
 <center>
         <h2>Team NextGen6G Hackathon Project</h2>
         <h4> React-Leaflet / SpringBoot Rest API</h4>
@@ -54,7 +54,7 @@ Teammate contributions:
 </center>
 <br>
 
-<center>
+<!-- <center>
         <h2>PixBox API Website</h2>
         <h4> Vanilla JavaScript / SpringBoot Rest API / MySQL : <b><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></b></h4>
 
@@ -73,5 +73,5 @@ Teammate contributions:
 ![Image](images/pic2.png)
 ![Image](images/pic3.png)
 ![Image](images/pic4.png)
-![Image](images/pic6.png)
+![Image](images/pic6.png) -->
 
