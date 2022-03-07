@@ -6,23 +6,23 @@
 
 <!-- [Link](url) and  -->
 
-![Image](images/restaurant-app-screenshot1.png)
+<!-- ![Image](images/restaurant-app-screenshot1.png) -->
 
-<center>
+<!-- <center> -->
 <!-- <b><a href="https://www.youtube.com/watch?v=cEly0IXPKYI">Video Demo!</a>
 </b> | -->
 <!-- <a href="https://github.com/JumpTeamProject/react-frontend/tree/Caroline_Branch">Front-End GitHub Repo</a> | -->
-<a href="https://github.com/JumpTeamProject">Full-Stack GitHub Repo</a> | 
+<!-- <a href="https://github.com/JumpTeamProject">Full-Stack GitHub Repo</a> | 
 <a href="https://drive.google.com/file/d/1aq3CEqe1-K2tVDR-njkPdlym_qqCQ_qG/view">Page Layout Plan</a> | 
 <a href="https://www.youtube.com/watch?v=gzf0hy-3cIM">Jira Demo</a>
-</center>
+</center> -->
 
 <!-- ![Image](images/HomePage1.png) -->
-<center>
+<!-- <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEly0IXPKYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center> 
+</center>  -->
 
-<br> -->
+<!-- <br>  -->
 <center>
         <h2>Team NextGen6G Hackathon Project</h2>
         <h4> React-Leaflet / SpringBoot Rest API</h4>
