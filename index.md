@@ -1,28 +1,28 @@
 
-<!-- <center>
+<center>
         <h2>Restaurant API Rating Website</h2>
         <h4> React / SpringBoot Rest API / MongoDB</h4>
 </center>
 
 <!-- [Link](url) and  -->
 
-<!-- ![Image](images/restaurant-app-screenshot1.png) -->
+![Image](images/restaurant-app-screenshot1.png)
 
-<!-- <center> -->
-<!-- <b><a href="https://www.youtube.com/watch?v=cEly0IXPKYI">Video Demo!</a>
-</b> | -->
-<!-- <a href="https://github.com/JumpTeamProject/react-frontend/tree/Caroline_Branch">Front-End GitHub Repo</a> | -->
-<!-- <a href="https://github.com/JumpTeamProject">Full-Stack GitHub Repo</a> | 
+<center>
+<b><a href="https://www.youtube.com/watch?v=cEly0IXPKYI">Video Demo!</a>
+</b> |
+<a href="https://github.com/JumpTeamProject/react-frontend/tree/Caroline_Branch">Front-End GitHub Repo</a> |
+<a href="https://github.com/JumpTeamProject">Full-Stack GitHub Repo</a> | 
 <a href="https://drive.google.com/file/d/1aq3CEqe1-K2tVDR-njkPdlym_qqCQ_qG/view">Page Layout Plan</a> | 
 <a href="https://www.youtube.com/watch?v=gzf0hy-3cIM">Jira Demo</a>
-</center> -->
+</center>
 
-<!-- ![Image](images/HomePage1.png) -->
-<!-- <center>
+![Image](images/HomePage1.png)
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEly0IXPKYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>  -->
+</center> 
 
-<!-- <br>  -->
+<br> 
 <center>
         <h2>Team NextGen6G Hackathon Project</h2>
         <h4> React-Leaflet / SpringBoot Rest API</h4>
@@ -32,8 +32,8 @@
 
 
 <center>
-<!-- <b><a href="https://www.youtube.com/watch?v=o0do7hn5hFg&feature=emb_title">Video Demo!</a>
-</b> |  -->
+<b><a href="https://www.youtube.com/watch?v=o0do7hn5hFg&feature=emb_title">Video Demo!</a>
+</b> | 
 <a href="https://drive.google.com/file/d/1tEumeoOhdzuL2SDn7zjzvkXgeVlISnvz/view?usp=sharing">Presentation PDF</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">React-Leaflet GitHub</a> | 
 <a href="https://github.com/crives/NextGen6G_React_Leaflet_Map">Backend GitHub</a>
@@ -54,7 +54,7 @@ Teammate contributions:
 </center>
 <br>
 
-<!-- <center>
+<center>
         <h2>PixBox API Website</h2>
         <h4> Vanilla JavaScript / SpringBoot Rest API / MySQL : <b><a href="https://github.com/crives/PinterestApi">GitHub Repo</a></b></h4>
 
@@ -73,5 +73,5 @@ Teammate contributions:
 ![Image](images/pic2.png)
 ![Image](images/pic3.png)
 ![Image](images/pic4.png)
-![Image](images/pic6.png) -->
+![Image](images/pic6.png)
 
